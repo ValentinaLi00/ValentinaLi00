@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **PixelPlayground**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js and Tailwind**
 
 - 📫 How to reach me **valentinali.dev@gmail.com**
 
