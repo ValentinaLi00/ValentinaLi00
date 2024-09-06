@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github_bg.png)
 <h1 align="center">Hi 👋, I'm Valentina Li</h1>
 <h3 align="center">I'm 23 years old, I like reading📖 and going to the gym💪🏼.</h3>
 <img align="right" alt="Coding" width="200" style="border-radius: 10px"
