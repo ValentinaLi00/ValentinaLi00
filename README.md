@@ -4,6 +4,12 @@
 
 ###
 
+<div href="https://visitcount.itsvg.in" align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ValentinaLi00&label=Profile%20Views&color=0&icon=9&pretty=true" />
+</div>
+
+###
+
 <h1 align="center">Hey!👋</h1>
 
 ###
